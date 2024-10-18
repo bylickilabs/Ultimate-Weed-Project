@@ -7,7 +7,7 @@
 
 2.) [Colored Weed V2](https://bzzz.tebex.io/package/5954200)
 
-✅ Available in [de]
+- ✅ Available in [de]
 
 ![line](https://github.com/bylickilabs/bylickilabs/assets/109308073/bfd77a60-d426-4470-b417-fdbab0166188) 
 
