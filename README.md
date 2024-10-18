@@ -1,5 +1,5 @@
-### Based on wild_cannabis & Money Wash
-### Fixed by AlphaDevelopment
+|Based on wild_cannabis & Money Wash| Fixed by AlphaDevelopment|
+|---|---|
 
 |Dependencies|
 |---|
