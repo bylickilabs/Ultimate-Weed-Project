@@ -1,4 +1,4 @@
-### Based on wild_cannabis Script
+### Based on wild_cannabis & Money Wash
 
 |Dependencies|
 |---|
