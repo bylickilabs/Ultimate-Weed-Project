@@ -13,7 +13,8 @@
 3.) [Colored Weed V2](https://bzzz.tebex.io/package/5954200)
 
 
-> Activate, or Deactivate Custom Props Here
+|Activate, or Deactivate Custom Props Here|
+|---|
 
 ```yarn
 wild_cannabis/server/server.lua
