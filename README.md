@@ -15,10 +15,8 @@
 
 ![line](https://github.com/bylickilabs/bylickilabs/assets/109308073/bfd77a60-d426-4470-b417-fdbab0166188) 
 
-
 > Activate, or Deactivate Custom Props Here
 wild_cannabis/server/server.lua
-
 
 ```yarn
 wild_cannabis/server/server.lua
