@@ -1,11 +1,9 @@
-|Based on wild_cannabis & Money Wash| Fixed by AlphaDevelopment|
-|---|---|
+|Based on wild_cannabis & Money Wash| Fixed by AlphaDevelopment||- ✅ Available in [de]|
+|---|---|---|
 
 |Dependencies|
 |---|
 
-|- ✅ Available in [de]|
-|---|
 
 1.) es_extended
 
