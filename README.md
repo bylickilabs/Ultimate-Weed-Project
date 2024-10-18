@@ -20,9 +20,10 @@
 wild_cannabis/server/server.lua
 ```
 
+```yarn
 Coords.: 2210.5410, 5609.1045, 53.7273, 243.8381
 Coords.: -342.6369, -2448.9673, 6.0006, 12.6425
-
+```
 |![Käufer](https://github.com/user-attachments/assets/c82f4b33-6881-4037-a229-a2f6c8c61927)|
 |---|
 
