@@ -1,7 +1,5 @@
-[DISCORD](https://discord.com/invite/mpz2hJ6PM6)
-
-|- ✅ Available in [de]|
-|---|
+|[DISCORD](https://discord.com/invite/mpz2hJ6PM6)|- ✅ Available in [de]|
+|---|---|
 
 |Dependencies|
 |---|
