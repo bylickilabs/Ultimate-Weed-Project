@@ -28,7 +28,30 @@ local wildCannabisArea = {
     },
 
     props = {
+        {
+            hash = 'prop_weed_01',
+            textureVariation = 0,
+            minimumDistanceBetween = 1.5,
+            offset = {
+                x = 0.0, y = 0.0, z = -0.3,
+            },
 
+            animation = {
+                duration = 5,
+                dict = 'mp_take_money_mg',
+                anim = 'put_cash_into_bag_loop',
+                flag = 1,
+            },
+
+            labelSingular 	= 'Wildes Cannabis',
+            labelPlurar 	= 'Wildes Cannabis',
+            collectMessage 	= 'zum einsammeln',
+            icon 		= 'fas fa-seedling',
+        },
+
+
+--Delete --[[ for Custom bzzz Weed V2 Props ]]--     
+--[[
 -- #1
         {
             hash = 'bzzz_plants_weed_blue_bud_big',
@@ -292,6 +315,7 @@ local wildCannabisArea = {
             collectMessage 	= 'zum einsammeln',
             icon 		= 'fas fa-seedling',
         }
+]]--        
     },
 }
 
