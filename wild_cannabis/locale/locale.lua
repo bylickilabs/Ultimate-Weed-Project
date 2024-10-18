@@ -1,4 +1,4 @@
-Locale = {
+Locale = { --€ = â‚¬
     ['Bag the cannabis'] 					= 'Sack das Cannabis ein',
     ['Cannabis packaging workbench'] 				= 'Cannabis-Verpackungswerkbank',
     ['Sell the cannabis'] 					= 'Verkaufe das Cannabis',
@@ -9,7 +9,7 @@ Locale = {
 
     ['~r~You do not have enough ingredients'] 			= '~r~Du hast nicht genügend Zutaten',
     ['~r~You do not have anything to sell here'] 		= '~r~Du hast hier nichts zu verkaufen',
-    ['~g~You sold {AMOUNT} wild cannabis bags for ${MONEY}'] 	= '~g~Du hast {AMOUNT} Tüten Cannabis für {MONEY}€ verkauft',
+    ['~g~You sold {AMOUNT} wild cannabis bags for ${MONEY}'] 	= '~g~Du hast {AMOUNT} Tüten Cannabis für {MONEY}â‚¬ verkauft',
 }
 
 
