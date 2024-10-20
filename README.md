@@ -1,6 +1,6 @@
-- [x] Check the New Release v1.1
-- [ ] (https://github.com/bylickilabs/Ultimate-Weed-Project/releases/tag/WeedMLO)
-- [ ] Add delight to the experience when all tasks are complete :tada:
+- [✅] Check the New Release v1.1
+- [✅] ![Direct Link](https://github.com/bylickilabs/Ultimate-Weed-Project/releases/tag/WeedMLO)
+- [✅] New Creature Script :tada:
 
 |[DISCORD](https://discord.com/invite/mpz2hJ6PM6)|- ✅ Available in [de]|
 |---|---|
