@@ -41,3 +41,7 @@ Coords.: -342.6369, -2448.9673, 6.0006, 12.6425
 |---|---|---|---|
 
 ![line](https://github.com/bylickilabs/bylickilabs/assets/109308073/bfd77a60-d426-4470-b417-fdbab0166188) 
+
+### Screenshot Release v1.1
+|![3](https://github.com/user-attachments/assets/e2c1688a-660a-4343-8ff7-6cb3737caca9)|
+|---|
