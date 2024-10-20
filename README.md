@@ -1,6 +1,5 @@
 - [✅] Check the New Release v1.1
-- [✅] ![LINK](https://github.com/bylickilabs/Ultimate-Weed-Project/releases/tag/WeedMLO)
-- [✅] New Creature Script :tada:
+- [✅] :tada:
 
 |[DISCORD](https://discord.com/invite/mpz2hJ6PM6)|- ✅ Available in [de]|
 |---|---|
