@@ -1,4 +1,4 @@
-- [✅] Check the New Release v1.1
+- ✅ Check the New Release v1.1
 - [✅] :tada:
 
 |[DISCORD](https://discord.com/invite/mpz2hJ6PM6)|- ✅ Available in [de]|
